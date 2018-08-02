@@ -1,0 +1,8 @@
+temp1	a
+temp2	b
+temp3	c
+
+%%
+
+{temp1}{temp2}* {}
+{temp2}{temp3} {}
